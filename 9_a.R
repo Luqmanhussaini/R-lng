@@ -1,3 +1,7 @@
+9. Parametric tests
+ a) t-test for one-mean 
+
+
 #one mean- SST
 data<-c(63,63,66,67,68,69,70,70,71,71)
 #data<-c(45,47,50,52,48,47,49,53,51)
