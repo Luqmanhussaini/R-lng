@@ -1,3 +1,7 @@
+8. Goodness of fit
+ a)Normal 
+
+
 x<-c(1,3,5,7,9)
 y<-c(3,5,7,9,11)
 f<-c(1,4,6,4,1)
